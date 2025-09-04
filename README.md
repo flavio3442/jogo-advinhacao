@@ -77,8 +77,8 @@ Tradução para outros idiomas
 
 👨‍💻 Autor
 Flavio Rodrigues 
-🔗 GitHub
-🔗 LinkedIn
+🔗 www.linkedin.com/in/flavio-rodrigues-3b673837b
+🔗 
 
 📄 Licença
 Este projeto está sob a licença MIT.
