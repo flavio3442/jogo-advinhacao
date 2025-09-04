@@ -77,6 +77,7 @@ Tradução para outros idiomas
 
 👨‍💻 Autor
 Flavio Rodrigues 
+
 🔗 www.linkedin.com/in/flavio-rodrigues-3b673837b
 🔗 https://github.com/flavio3442
 email: flaviorsouza777@gmail.com
