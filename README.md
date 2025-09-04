@@ -74,6 +74,25 @@ Interface gráfica com Tkinter ou PyGame
 Contador de recordes
 
 Tradução para outros idiomas
+---
+
+## 📚 O que eu aprendi com este projeto
+
+Durante o desenvolvimento deste jogo de adivinhação em Python, pratiquei e aprendi vários conceitos importantes da programação, incluindo:
+
+- ✅ Como estruturar um projeto simples em Python
+- ✅ Uso de funções para organizar o código (`def`)
+- ✅ Laços de repetição com `while` e controle de fluxo com `if/elif/else`
+- ✅ Geração de números aleatórios com `random.randint()`
+- ✅ Leitura de dados com `input()` e conversão para `int`
+- ✅ Tratamento de erros com `try/except`
+- ✅ Como criar e formatar um `README.md` profissional em Markdown
+- ✅ Primeiros passos com Git e GitHub: inicializar repositório, versionar código, e fazer o push para um repositório remoto
+- ✅ Como usar o terminal no VS Code para rodar scripts Python
+
+Este projeto foi uma base sólida para continuar avançando com lógica de programação e boas práticas em Python.
+
+---
 
 👨‍💻 Autor
 Flavio Rodrigues 
